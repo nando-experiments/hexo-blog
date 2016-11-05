@@ -1,0 +1,3 @@
+[submodule "themes/nandomoreira"]
+	path = themes/nandomoreira
+	url = git@github.com:nandomoreirame/hexo-theme-nandomoreira.git
